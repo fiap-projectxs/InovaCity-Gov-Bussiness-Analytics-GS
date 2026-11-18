@@ -56,6 +56,13 @@ Os dados de teste são sintéticos ou simulados. Os resultados mostram que os fl
 
 O site tem modo de alto contraste e três tamanhos de texto.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Acesso aos vídeos das disciplinas
+
+**Baixe o relatório e abra o arquivo no seu dispositivo.** Os links para os vídeos de cada disciplina estão no relatório e devem ser acessados pela versão baixada.
+
+
 ## Como rodar
 
 ```
